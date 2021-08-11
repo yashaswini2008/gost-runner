@@ -1,1 +1,1 @@
-# gost-runner
+# Ghost-runner
